@@ -1,4 +1,3 @@
-#...
 #Função que verifica se a cadeia está na linguagem L = { aⁿbⁿ|n≥0 }
 def linguagem_a_n_b_n(w):
     n = len(w)
